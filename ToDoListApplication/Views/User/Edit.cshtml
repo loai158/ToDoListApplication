@@ -1,0 +1,34 @@
+﻿@model MyList
+<div class="container my-3">
+    <div class="row">
+        <div class="col-12 d-flex justify-content-between align-items-center">
+            <h1>Edit Task</h1>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col-12">
+            <form action="/User/Edit" method="post">
+                <input type="hidden" class="form-control" name="Id" value="@Model.Id">
+                <input type="hidden" class="form-control" name="UserId" value="@Model.User.Id">
+                <div class="mb-3">
+                    <label for="Title" class="form-label">Task Title</label>
+                    <input type="text" class="form-control" name="Title" value="@Model.Title">
+                </div>
+                <div class="mb-3">
+                    <label for="Description" class="form-label">Task Description</label>
+                    <input type="text" class="form-control" name="Description" value="@Model.Description">
+                </div>
+                <div class="mb-3">
+                    <label for="Deadline Date" class="form-label">Task Deadline Date</label>
+                    <input type="date" class="form-control" name="Deadline Date" value="@Model.Deadline.Date.ToString("yyyy-mm-dd")">
+                </div>
+                <div class="form-group">
+                    <label for="Deadline Time">Task Deadline Time:</label>
+                    <input type="time" class="form-control" name="Deadline Time" value="@Model.Deadline.ToString("hh-mm-ss")">
+                </div>
+                <button type="submit" class="btn btn-primary">Save</button>
+            </form>
+        </div>
+    </div>
+</div>

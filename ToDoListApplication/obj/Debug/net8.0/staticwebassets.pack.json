@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ToDoListApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ToDoListApplication.qhenlljm6p.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\c1.png",
+      "PackagePath": "staticwebassets\\images\\c1.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\c2.png",
+      "PackagePath": "staticwebassets\\images\\c2.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\c3.png",
+      "PackagePath": "staticwebassets\\images\\c3.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\c4.png",
+      "PackagePath": "staticwebassets\\images\\c4.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\c5.png",
+      "PackagePath": "staticwebassets\\images\\c5.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\c6.png",
+      "PackagePath": "staticwebassets\\images\\c6.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\call.png",
+      "PackagePath": "staticwebassets\\images\\call.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\experience-img.jpg",
+      "PackagePath": "staticwebassets\\images\\experience-img.jpg"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\f4.png",
+      "PackagePath": "staticwebassets\\images\\f4.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\fb.png",
+      "PackagePath": "staticwebassets\\images\\fb.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\freelance-img.jpg",
+      "PackagePath": "staticwebassets\\images\\freelance-img.jpg"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\next-angle.png",
+      "PackagePath": "staticwebassets\\images\\next-angle.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\prev-angle.png",
+      "PackagePath": "staticwebassets\\images\\prev-angle.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\images\\youtube.png"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.net\\projects\\ToDoListApplication\\ToDoListApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ToDoListApplication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ToDoListApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ToDoListApplication.props",
+      "PackagePath": "build\\ToDoListApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ToDoListApplication.props",
+      "PackagePath": "buildMultiTargeting\\ToDoListApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ToDoListApplication.props",
+      "PackagePath": "buildTransitive\\ToDoListApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
